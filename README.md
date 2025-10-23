@@ -32,4 +32,5 @@ _Level 2:_ Carrot Hunt: This level follows directly after The Maze. The player u
 _Level 3: The Chase:_ The player maneuvers the bunny (with the arrow keys) to evade the foxes within a set time limit.
 
 -Success (time expiration) results in a message displaying the collected carrot score, followed by a thank-you screen.
+
 -Failure (capture) gives the player the option to restart the level.
