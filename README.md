@@ -52,11 +52,13 @@ The application includes three mini-games that require keyboard control, while t
 **The project contains two narrative branches, each with specific mini-games:**
 
 **1. "Love" Branch / "Fox+Bunny" (2 mini-games)**
+
 _Level 1:_ The Maze: The player controls the bunny (using the arrow keys) to navigate a maze and reach a portal. Progression requires a mouse click on the "Done" button.
 
 _Level 2:_ Carrot Hunt: This level follows directly after The Maze. The player uses the arrow keys to control the fox avatar, with the goal of collecting 11 carrots. After collection, the game automatically transitions to the final page of this section.
 
 **2. "Survival" Branch / "Fox-Bunny" (1 mini-game)**
+
 _Level 3: The Chase:_ The player maneuvers the bunny (with the arrow keys) to evade the foxes within a set time limit.
 
 -Success (time expiration) results in a message displaying the collected carrot score, followed by a thank-you screen.
