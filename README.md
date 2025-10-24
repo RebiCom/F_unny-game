@@ -36,4 +36,3 @@ _Level 3: The Chase:_ The player maneuvers the bunny (with the arrow keys) to ev
 -Success (time expiration) results in a message displaying the collected carrot score, followed by a thank-you screen.
 
 -Failure (capture) gives the player the option to restart the level.
->>>>>>> 08749caeace4c81ac4dc651de7499bf4ce576e8b
